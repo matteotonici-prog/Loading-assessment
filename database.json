@@ -1,0 +1,1307 @@
+{
+ "sdl": [
+  {
+   "name": "Editable Value Name 1",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 2",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 3",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 4",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 5",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 6",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 7",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 8",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 9",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Editable Value Name 10",
+   "value": 1.0,
+   "unit": "kN/m3",
+   "group": "Editable Fields"
+  },
+  {
+   "name": "Asphalt - [22.5 kN/m3]",
+   "value": 22.5,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Aluminium - [27 kN/m3]",
+   "value": 27.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Aggregate - [16 kN/m3]",
+   "value": 16.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Bitumen  - [13 kN/m3]",
+   "value": 13.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Blocks - aerated concrete (min) - [5.0 kN/m3]",
+   "value": 5.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Blocks - aerated concrete (max) - [9.0 kN/m3]",
+   "value": 9.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Blocks - dense aggregate - [20 kN/m3]",
+   "value": 20.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Blocks - lightweight - [14 kN/m3]",
+   "value": 14.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Books - bulk storage - [11 kN/m3]",
+   "value": 11.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Brickwork - blue - [524 kN/m3]",
+   "value": 24.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Brickwork - engineering - [22 kN/m3]",
+   "value": 22.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Brickwork - fletton - [18 kN/m3]",
+   "value": 18.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Brickwork - London stock - [19 kN/m3]",
+   "value": 19.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Brickwork - sand lime - [21 kN/m3]",
+   "value": 21.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Carbon fiber - [20 kN/m3]",
+   "value": 20.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Cement - [15 kN/m3]",
+   "value": 15.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Cement render - [23 kN/m3]",
+   "value": 23.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Chipboard - [6.9 kN/m3]",
+   "value": 6.9,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Concrete - aerated - [10 kN/m3]",
+   "value": 10.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Concrete - lightweight - [18 kN/m3]",
+   "value": 18.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Concrete - plain - [24 kN/m3]",
+   "value": 24.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Concrete - reinforced - [25 kN/m3]",
+   "value": 25.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Concrete - wet reinforced - [26 kN/m3]",
+   "value": 26.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Epoxy resin - [20 kN/m3]",
+   "value": 20.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Glass - [25.6 kN/m3]",
+   "value": 25.6,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Glass fiber - [15 kN/m3]",
+   "value": 15.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Granite - [27.3 kN/m3]",
+   "value": 27.3,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Hardcore - [19 kN/m3]",
+   "value": 19.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Limestone (Portland stone - med. weight) - [22 kN/m3]",
+   "value": 22.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Limestone (Marble - heavyeight) - [26.7 kN/m3]",
+   "value": 26.7,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Macadam Paving - [21 kN/m3]",
+   "value": 21.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Marble - [29 kN/m3]",
+   "value": 29.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "MDF - [8.0 kN/m3]",
+   "value": 8.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Mortar - [18 kN/m3]",
+   "value": 18.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Nylon - [11.5 kN/m3]",
+   "value": 11.5,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Plaster - [14.1 kN/m3]",
+   "value": 14.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Plasterboard - [9.0 kN/m3]",
+   "value": 9.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Playwood - [6.3 kN/m3]",
+   "value": 6.3,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Polystyrene  - [13 kN/m3]",
+   "value": 13.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Polycarbonate - [12 kN/m3]",
+   "value": 12.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "PVC - [14 kN/m3]",
+   "value": 14.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Rockwool - [0.4 kN/m3]",
+   "value": 0.4,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Rubber - [9.1 kN/m3]",
+   "value": 9.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Sandsonte - [23.5 kN/m3]",
+   "value": 23.5,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Screed - sand/cement - [22 kN/m3]",
+   "value": 22.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Services - [1.5 kN/m3]",
+   "value": 1.5,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Slate - [28 kN/m3]",
+   "value": 28.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Steel/iron - [77 kN/m3]",
+   "value": 77.0,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Terracotta - [20.7 kN/m3]",
+   "value": 20.7,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Timber - Douglas fir - [5.2 kN/m3]",
+   "value": 5.2,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Timber - European beech/oak - [7.1 kN/m3]",
+   "value": 7.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Timber - Grade C16 - [3.6 kN/m3]",
+   "value": 3.6,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Timber - Grade C24 - [4.1 kN/m3]",
+   "value": 4.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Timber - Iroko/teak - [6.4 kN/m3]",
+   "value": 6.4,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Material 1",
+   "value": 0.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Material 2",
+   "value": 0.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Material 3",
+   "value": 0.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Material 4",
+   "value": 0.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Material 5",
+   "value": 0.1,
+   "unit": "kN/m3",
+   "group": "Volume Database (Densities) - [kN/m3]"
+  },
+  {
+   "name": "Clay - Stiff (min) - [19 kN/m3]",
+   "value": 19.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Clay - Stiff (max) - [22 kN/m3]",
+   "value": 22.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Clay - Soft (min) - [16 kN/m3]",
+   "value": 16.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Clay - Soft (max) - [19 kN/m3]",
+   "value": 19.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Granular - Loose (min) - [16 kN/m3]",
+   "value": 16.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Granular - Loose (max) - [18 kN/m3]",
+   "value": 18.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Granular - Dense (min) - [19 kN/m3]",
+   "value": 19.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Granular - Dense (max) - [21 kN/m3]",
+   "value": 21.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Silty Clay, Sandy Clay (min) - [16 kN/m3]",
+   "value": 16.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Silty Clay, Sandy Clay (max) - [20 kN/m3]",
+   "value": 20.0,
+   "unit": "kN/m3",
+   "group": "Soil Density - [kN/m3]"
+  },
+  {
+   "name": "Ceiling - [kN/m2]",
+   "value": 0.2,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Insulation - glass fiber (150mm) - [kN/m2]",
+   "value": 0.045,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Paving stones (50mm) - [kN/m2]",
+   "value": 1.2,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Services - [kN/m2]",
+   "value": 0.15,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Tiles - ceramic floor on bedding - [kN/m2]",
+   "value": 1.0,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Tiles - clay roof (max) - [kN/m2]",
+   "value": 0.67,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Tiles - natural slate (thick) - [kN/m2]",
+   "value": 0.65,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Tiles - interlocking concrete - [kN/m2]",
+   "value": 0.55,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Tiles - plain concrete - [kN/m2]",
+   "value": 0.75,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Waterproofing - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Asphalt (20mm) - [kN/m2]",
+   "value": 0.46,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Carpet & underlay - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Chipboard (18mm) - [kN/m2]",
+   "value": 0.12,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Dry lining on stud (20mm) - [kN/m2]",
+   "value": 0.15,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "False ceiling - steel framing - [kN/m2]",
+   "value": 0.1,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Felt (3 layer) andchippings - [kN/m2]",
+   "value": 0.35,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Glass - double glazing - [kN/m2]",
+   "value": 0.52,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Glass - single glazing - [kN/m2]",
+   "value": 0.3,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "SFS Metal Stud - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Plaster - two coat gypsum (12mm) - [kN/m2]",
+   "value": 0.21,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Plaster skim coat - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Plasterboard (12.5mm) - [kN/m2]",
+   "value": 0.09,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Plasterboard (19mm) - [kN/m2]",
+   "value": 0.15,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Playwood (12.5mm) - [kN/m2]",
+   "value": 0.08,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Playwood (19mm) - [kN/m2]",
+   "value": 0.12,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Quarry tiles including mortar bedding - [kN/m2]",
+   "value": 0.32,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Raised floor - heavy duty - [kN/m2]",
+   "value": 0.5,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Raised floor - medium weight - [kN/m2]",
+   "value": 0.4,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Raised floor - lightweight - [kN/m2]",
+   "value": 0.3,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Render (13mm) - [kN/m2]",
+   "value": 0.3,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Screed (50mm) - [kN/m2]",
+   "value": 1.15,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Screed - lightweight (25mm) - [kN/m2]",
+   "value": 0.45,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Stainless steel roofing (0.4mm) - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Suspended Ceiling - steel - [kN/m2]",
+   "value": 0.1,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Suspended fireboard tiles - [kN/m2]",
+   "value": 0.05,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "T&G boards (15.5mm) - [kN/m2]",
+   "value": 0.09,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "T&G boards (22mm) - [kN/m2]",
+   "value": 0.12,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Battens for slating and tiling - [kN/m2]",
+   "value": 0.03,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Hollowcore Precast Planks 250mm thk - [kN/m2]",
+   "value": 3.5,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Acoustic Underlay",
+   "value": 0.1,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Timber Joists",
+   "value": 0.4,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Membrane",
+   "value": 0.01,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "UFH + 20mm Screed",
+   "value": 0.38,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "UFH No Screed",
+   "value": 0.15,
+   "unit": "kN/m2",
+   "group": "Typical Area Loadings Database - [kN/m2]"
+  },
+  {
+   "name": "Precast concrete solid units 100mm - [2.5 kN/m2]",
+   "value": 2.5,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Precast concrete solid units 150mm - [2.4 kN/m2]",
+   "value": 2.4,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Precast concrete solid units 200mm - [2.87 kN/m2]",
+   "value": 2.87,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Precast concrete solid units 300mm - [4.07 kN/m2]",
+   "value": 4.07,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Precast concrete solid units 400mm - [4.84 kN/m2]",
+   "value": 4.84,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Ribbed slab 250mm - [4.0 kN/m2]",
+   "value": 4.0,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Ribbed slab 300mm - [4.3 kN/m2]",
+   "value": 4.3,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Ribbed slab 350mm - [4.7 kN/m2]",
+   "value": 4.7,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Waffle slab standard modulus 325mm - [6.0 kN/m2]",
+   "value": 6.0,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Waffle slab standard modulus 425mm - [6.0 kN/m2]",
+   "value": 7.3,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "Waffle slab standard modulus 525mm - [6.0 kN/m2]",
+   "value": 8.6,
+   "unit": "kN/m2",
+   "group": "Typical Concrete Slabs Area Load  - [kN/m2]"
+  },
+  {
+   "name": "-",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Structure self weight accounted in F.E.A. model",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Other 1",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Other 2",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Other 3",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Other 4",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  },
+  {
+   "name": "Other 5",
+   "value": 0.0,
+   "unit": "kN/m2",
+   "group": "Empty Row  - [kN/m2]"
+  }
+ ],
+ "ll": [
+  {
+   "name": "-",
+   "udl": 0.0,
+   "point": 0.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 2",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 3",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 4",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 5",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 6",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 7",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 8",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 9",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "Editable LL Value 10",
+   "udl": 1.0,
+   "point": 1.0,
+   "category": "Editable_LL_Value"
+  },
+  {
+   "name": "A1 - All usages within self-contained dwelling units. Communal areas (including kitchens) in blocks of fats with limited use.",
+   "udl": 1.5,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A2 - Bedrooms and dormitories except those in self-contained single family dwelling units and in hotels and motels",
+   "udl": 1.5,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A3 - Bedrooms in hotels and motels; hospital wards; toilet areas",
+   "udl": 2.0,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A4 - Billiard/snooker rooms",
+   "udl": 2.0,
+   "point": 2.7,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A5 - BALCONIES: Single family dwelling units and communal areas in blocks of fats with limited use",
+   "udl": 2.5,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A6 - BALCONIES: Hostels, guest houses, residential clubs and communal areas in blocks of fats except those covered",
+   "udl": 3.0,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "A7 - BALCONIES: Hotels and motelS",
+   "udl": 4.0,
+   "point": 2.0,
+   "category": "A_Typical_domestic_and_residential"
+  },
+  {
+   "name": "B1 - General use other than B2",
+   "udl": 2.5,
+   "point": 2.7,
+   "category": "B_Typical_offices"
+  },
+  {
+   "name": "B2 - At or below ground foor level",
+   "udl": 3.0,
+   "point": 2.7,
+   "category": "B_Typical_offices"
+  },
+  {
+   "name": "C11 - Public, institutional and communal dining rooms and lounges, cafes and restaurants",
+   "udl": 2.0,
+   "point": 3.0,
+   "category": "C_1_Typical_areas_with_tables"
+  },
+  {
+   "name": "C12 - Reading rooms with no book storage",
+   "udl": 2.5,
+   "point": 4.0,
+   "category": "C_1_Typical_areas_with_tables"
+  },
+  {
+   "name": "C13 - Classrooms",
+   "udl": 3.0,
+   "point": 3.0,
+   "category": "C_1_Typical_areas_with_tables"
+  },
+  {
+   "name": "C21 - Assembly areas with fxed seating (see Note c)",
+   "udl": 4.0,
+   "point": 3.6,
+   "category": "C_2_Typical_areas_with_fixed_seats"
+  },
+  {
+   "name": "C22 - Places of worship",
+   "udl": 3.0,
+   "point": 2.7,
+   "category": "C_2_Typical_areas_with_fixed_seats"
+  },
+  {
+   "name": "C31 - Corridors, hallways, aisles in institutional type buildings not subjected to crowds or wheeled vehicles, hostels, guest houses, residential clubs, and communal areas in blocks of fats not covered by note a",
+   "udl": 3.0,
+   "point": 4.5,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C32 - Stairs, landings in institutional type buildings not subjected to crowds or wheeled vehicles, hostels, guest houses, residential clubs, and communal areas in blocks of fats not covered by Note a",
+   "udl": 3.0,
+   "point": 4.0,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C33 - Corridors, hallways, aisles in all buildings not covered by C31 and C32, including hotels and motels and in institutional type buildings subjected to crowds",
+   "udl": 4.0,
+   "point": 4.5,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C34 - Corridors, hallways, aisles in all buildings not covered by C31 and C32, including hotels and motels and in institutional type buildings subjected to wheeled vehicles, including trolleys",
+   "udl": 5.0,
+   "point": 4.5,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C35 - Stairs, landings in all buildings not covered by C31 and C32, including hotels and motels, and institutional buildings subjected to crowds",
+   "udl": 4.0,
+   "point": 4.0,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C36 - Walkways – Light duty (access suitable for one person, walkway width approx. 600 mm)",
+   "udl": 3.0,
+   "point": 2.0,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C37 - Walkways – General duty (regular two-way pedestrian traffc)",
+   "udl": 5.0,
+   "point": 3.6,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C38 - Walkways – Heavy duty (high-density pedestrian traffc including escape routes)",
+   "udl": 7.5,
+   "point": 4.5,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C39 - Museum foors and art galleries for exhibition purposes",
+   "udl": 4.0,
+   "point": 4.5,
+   "category": "C_3_Typical_areas_without_obstacles_for_moving_people"
+  },
+  {
+   "name": "C41 - Dance halls and studios, gymnasia, stages (see Note e)",
+   "udl": 5.0,
+   "point": 3.6,
+   "category": "C_4_Typical_areas_with_possible_physical_activities"
+  },
+  {
+   "name": "C42 - Drill halls and drill rooms (see Note e)",
+   "udl": 5.0,
+   "point": 7.0,
+   "category": "C_4_Typical_areas_with_possible_physical_activities"
+  },
+  {
+   "name": "C51 - Assembly areas without fxed seating, concert halls, bars and places of worship (see Note d and Note e)",
+   "udl": 5.0,
+   "point": 3.6,
+   "category": "C_5_Typical_areas_susceptible_to_large_crowds"
+  },
+  {
+   "name": "C52 - Stages in public assembly areas (see Note e)",
+   "udl": 7.5,
+   "point": 4.5,
+   "category": "C_5_Typical_areas_susceptible_to_large_crowds"
+  },
+  {
+   "name": "D1 - Areas in general retail shops",
+   "udl": 4.0,
+   "point": 3.6,
+   "category": "D_Typical_shopping_area"
+  },
+  {
+   "name": "D2 - Areas in department stores",
+   "udl": 4.0,
+   "point": 3.6,
+   "category": "D_Typical_shopping_area"
+  },
+  {
+   "name": "E11 - General areas for static equipment not specifed elsewhere (institutional and public buildings)",
+   "udl": 2.0,
+   "point": 1.8,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E12 - Reading rooms with book storage, e.g. libraries",
+   "udl": 4.0,
+   "point": 4.5,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E13 - General storage other than those specifed (but designers are encouraged to determine project specifc values) [2.4 per metre of storage height]",
+   "udl": 2.4,
+   "point": 7.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E14 - File rooms, fling and storage space (offces)",
+   "udl": 5.0,
+   "point": 4.5,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E15 - Stack rooms (books) [2.4 per metre of storage height - 6.5 kN/m2 min]",
+   "udl": 6.5,
+   "point": 7.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E16 - Paper storage for printing plants and stationery stores [4.0 per metre of storage height]",
+   "udl": 4.0,
+   "point": 9.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E17 - Dense mobile stacking (books) on mobile trolleys, in public and institutional buildings [4.8 per metre of storage height - 9.6 kN/m2 min]",
+   "udl": 9.6,
+   "point": 7.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E18 - Dense mobile stacking (books) on mobile trucks, in warehouses [4.8 per metre of storage height - 15 kN/m2 min]",
+   "udl": 15.0,
+   "point": 7.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E19 - Cold storage [5.0 per metre of storage height - 15 kN/m2 min]",
+   "udl": 15.0,
+   "point": 9.0,
+   "category": "E_1_Typica_area_scuscettible_to_accumulation_of_goods_including_access_areas"
+  },
+  {
+   "name": "E201 - Communal kitchens except those covered by occupancy class A",
+   "udl": 3.0,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E202 - Operating theatres, x-ray rooms, utility rooms",
+   "udl": 2.0,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E203 - Work rooms (light industrial) without storage",
+   "udl": 2.5,
+   "point": 1.8,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E204 - Kitchens, laundries, laboratories",
+   "udl": 3.0,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E205 - Rooms with mainframe computers or similar equipment",
+   "udl": 3.5,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E206 - Machinery halls, circulation spaces therein",
+   "udl": 4.0,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E207 - Cinematographic projection rooms",
+   "udl": 5.0,
+   "point": 0.0,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E208 - Factories, workshops and similar buildings (general industrial)",
+   "udl": 5.0,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E209 - Foundries",
+   "udl": 20.0,
+   "point": 0.0,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E210 - Catwalks [1.0 at 1 m centres]",
+   "udl": 0.0,
+   "point": 1.0,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E211 - Fly galleries (i.e. access structures used in theatres to hang scenery, curtains, etc.)",
+   "udl": 4.5,
+   "point": 0.0,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E212 - Ladders [1.5 rung load]",
+   "udl": 0.0,
+   "point": 1.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "E213 - Plant rooms, boiler rooms, fan rooms, etc., including weight of machinery",
+   "udl": 7.5,
+   "point": 4.5,
+   "category": "E_2_Typical_Industrial_use"
+  },
+  {
+   "name": "F - Traffic and parking areas imposed loadings (Vehicle < 30 kN)",
+   "udl": 2.5,
+   "point": 5.0,
+   "category": "F_Typical_Traffic_and_parking_areas"
+  },
+  {
+   "name": "G - Traffic and parking areas imposed loadings (Vehicle > 30 kN)",
+   "udl": 5.0,
+   "point": 0.0,
+   "category": "G_Typical_Traffic_and_parking_areas"
+  },
+  {
+   "name": "H - Roofs not accessible except for normal maintenance and repair",
+   "udl": 0.6,
+   "point": 0.9,
+   "category": "H_I_K_Typical_Inaccessible_Roof"
+  },
+  {
+   "name": "I - Roofs accessible – occupancy according to categories A to G [As category]",
+   "udl": 0.0,
+   "point": 0.0,
+   "category": "H_I_K_Typical_Inaccessible_Roof"
+  },
+  {
+   "name": "K - Roofs accessible for special services, such as helicopter landing areas [To be determined for specifc use]",
+   "udl": 0.0,
+   "point": 0.0,
+   "category": "H_I_K_Typical_Inaccessible_Roof"
+  },
+  {
+   "name": "Movable Partitions with a self weight < 1.0 kN/m",
+   "udl": 0.5,
+   "point": 0.0,
+   "category": "Partitions"
+  },
+  {
+   "name": "Movable Partitions with a self weight < 2.0 kN/m",
+   "udl": 0.8,
+   "point": 0.0,
+   "category": "Partitions"
+  },
+  {
+   "name": "Movable Partitions with a self weight < 3.0 kN/m",
+   "udl": 1.2,
+   "point": 0.0,
+   "category": "Partitions"
+  },
+  {
+   "name": "Slab weight accounted in F.E.A. model",
+   "udl": 0.0,
+   "point": 0.0,
+   "category": "Partitions"
+  },
+  {
+   "name": "-",
+   "udl": 0.0,
+   "point": 0.0,
+   "category": "Partitions"
+  }
+ ],
+ "labels": {
+  "area_types": [
+   "Typical Basement Floor",
+   "Typical Ground Floor",
+   "Typical Upper Floor",
+   "Typical Transfer Floor",
+   "Typical Roof",
+   "Typical Balcony",
+   "Typical Terrace",
+   "Typical Residential",
+   "Typical Bathroom",
+   "Typical Terrace",
+   "Typical Storage",
+   "Editable 5"
+  ],
+  "wall_types": [
+   "Typical Cavity Wall",
+   "Typical Lightweight Cladding",
+   "Typical Curtain Wall",
+   "Typical Lightweight Partition",
+   "Typical Medium Weight Partition",
+   "Typical Heavy Weight Partition",
+   "Editable 1",
+   "Editable 2",
+   "Editable 3",
+   "Editable 4",
+   "Editable 5"
+  ]
+ }
+}
